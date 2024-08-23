@@ -1,1 +1,1 @@
-# .github
+# CS2 Data Info
