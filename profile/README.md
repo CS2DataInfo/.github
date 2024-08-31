@@ -1,5 +1,4 @@
-# CS2Data.Info coming soon
-
+# [![CS2Data.Info](https://cs2data.info/meta-tags.png)](https://CS2Data.Info)
 
 # Follow us
 - **WebSite:** [CS2Data.Info](https://CS2Data.Info)
