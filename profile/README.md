@@ -4,6 +4,7 @@
 # Follow us
 - **WebSite:** [CS2Data.Info](https://CS2Data.Info)
 - **Twitter:** [@cs2datainfo](https://x.com/cs2datainfo)
+- **Bluesky:** [@cs2data.info](https://bsky.app/profile/cs2data.info)
 - **Instagram:** [@cs2datainfo](https://instagram.com/cs2datainfo)
 - **Youtube:** [@cs2datainfo](https://www.youtube.com/@cs2datainfo)
 - **TikTok:** [@cs2datainfo](https://www.tiktok.com/@cs2datainfo)
